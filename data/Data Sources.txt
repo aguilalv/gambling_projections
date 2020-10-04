@@ -1,0 +1,23 @@
+# Gambling Market
+
+## Data Sources and definitions
+
+**Gross Domestic Product**
+
+- Gross Domestic Product: chained volume measures: Seasonally adjusted £m
+
+- https://www.ons.gov.uk/generator?format=csv&uri=/economy/grossdomesticproductgdp/timeseries/abmi/pn2
+
+- ABMI-290920.csv
+
+- Downloaded 2020.09.29
+
+**Gross Disposable Income**
+
+- Gross disposable household income. The amount of money that that all of the individuals in the household sector have available for spending or saving after income distribution measures (for example, taxes, social contributions and benefits) have taken effect. GDHI does not provide measures relating to actual households or family units. The figures cover regions, sub-regions and local areas of the UK.
+
+- https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/qwnd/ukea
+
+- QWND-290920.csv
+
+- Downloaded 2020.09.29
